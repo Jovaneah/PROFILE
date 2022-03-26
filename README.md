@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://wa.me/6289638023602"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://icons-for-free.com/iconfiles/png/512/rs+social+whatsapp+icon-1320190674429132495.png"/></a>
+  <a href="https://wa.me/6281385744255"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://icons-for-free.com/iconfiles/png/512/rs+social+whatsapp+icon-1320190674429132495.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/jovaneah"><img width="32px" alt="Instagram" title="Instagram" src="https://icons-for-free.com/iconfiles/png/512/media+rs+social+icon-1320190673019098590.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
