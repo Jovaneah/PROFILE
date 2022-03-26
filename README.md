@@ -97,9 +97,6 @@ const Jovaneah = {
 
 <!-- end -->
 # Contact Me :
-<p align="center">
-<img hight="500" width="300" alt="GIF" align="center" src="https://i.pinimg.com/736x/75/21/ca/7521ca868ba7b0520fb2ef1ca79f0a6a.jpg">
-</p>
 
 ```js
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
