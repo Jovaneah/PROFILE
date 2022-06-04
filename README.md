@@ -26,7 +26,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rominaru"/></a>
   <a href="https://github.com/Jovaneah?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jovanean?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Rominaru/Simple-View-Counter">
+  <a href="https://github.com/Jovaneah/Simple-View-Counter">
     <img src="https://api.visitorbadge.io/api/VisitorHit?user=Jovaneah&repo=github-visitors-badge&countColor=%237B1E7A" />
 </p>
 
