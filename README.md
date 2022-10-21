@@ -32,15 +32,15 @@
 
 <!-- about -->
 # About ME 💬 :
-
-```js 
-- I'm 16 years old and learning Artificial Intelligence with Python
+- I'm 16 years old cyber security and Python backend enthusiast from Indonesia. 
 ```
 
 ### - Learning :
 - ✨ Create AI
 - ✨ Create Web
-
+- ✨ Cyber Security
+- ✨ Capture The Flag
+  
 ### - Hobbies : 
 - ✨ Coding
 - ✨ Writing
